@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PessimistTech
 - 👀 I’m interested in all things tech (programming, linux, devops, servers, VMs, homelab, etc...)
-- 🌱 I’m currently learning golang
+- 🌱 I’m a Golang dev
 - 💞️ I’m looking to collaborate on cool projects
 
 <!---
